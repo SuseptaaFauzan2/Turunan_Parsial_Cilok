@@ -1,6 +1,7 @@
 import streamlit as st
 import sympy as sp
 import numpy as np
+import matplotlib.pyplot as plt
 
 # Judul aplikasi
 st.title("Analisis Biaya Produksi Cilok - Turunan Parsial")
