@@ -1,7 +1,3 @@
-import streamlit as st
-import numpy as np
-import matplotlib.pyplot as plt
-from mpl_toolkits.mplot import Axes3D
 
 # Judul aplikasi
 st.title("Analisis Biaya Produksi Cilok - Turunan Parsial")
