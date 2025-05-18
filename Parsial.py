@@ -2,7 +2,6 @@ import streamlit as st
 import sympy as sp
 import numpy as np
 import matplotlib.pylot as plt
-from mpl_toolkits.mplot3d import Axes3D
 
 # Judul aplikasi
 st.title("Analisis Biaya Produksi Cilok - Turunan Parsial")
